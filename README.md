@@ -56,15 +56,6 @@ This repository contains my accepted **LeetCode** solutions.
 
 </p>
 
----
-
-## 🌟 Daily Motivation
-
-> **"Small progress every day adds up to remarkable results."**
-
----
-
-<div align="center">
 
 
 </div>
