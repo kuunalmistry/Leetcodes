@@ -68,6 +68,4 @@ This repository contains my accepted **LeetCode** solutions.
 
 ### ⭐ If you found this repository interesting, consider giving it a star!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F7A41D&height=120&section=footer"/>
-
 </div>
