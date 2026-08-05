@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 LeetCode Journey
+# 🚀 Kuunal Mistry's LeetCode Journey
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=FFA116&center=true&vCenter=true&random=false&width=700&lines=Consistency+beats+talent.;One+problem+every+day.;Building+strong+DSA+skills.;Welcome+to+my+LeetCode+Journey!"/>
 
