@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Kuunal's LeetCode Journey
+# 🚀 LeetCode Journey
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=FFA116&center=true&vCenter=true&random=false&width=700&lines=Consistency+beats+talent.;One+problem+every+day.;Building+strong+DSA+skills.;Welcome+to+my+LeetCode+Journey!"/>
 
@@ -51,9 +51,9 @@ This repository contains my accepted **LeetCode** solutions.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kuunalmistry&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=kuunalmistry&theme=tokyonight&hide_border=true)
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=kuunalmistry&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
