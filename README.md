@@ -53,8 +53,7 @@ This repository contains my accepted **LeetCode** solutions.
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=kuunalmistry&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=kuunalmistry&theme=tokyonight&hide_border=true"/>
-
+![GitHub Streak](https://streak-stats.demolab.com?user=kuunalmistry&theme=tokyonight&hide_border=true)
 </p>
 
 ---
