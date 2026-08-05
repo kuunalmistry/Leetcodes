@@ -66,6 +66,5 @@ This repository contains my accepted **LeetCode** solutions.
 
 <div align="center">
 
-### ⭐ If you found this repository interesting, consider giving it a star!
 
 </div>
