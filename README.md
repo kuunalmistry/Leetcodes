@@ -1,61 +1,87 @@
 <div align="center">
 
-# 🚀 Kuunal Mistry's LeetCode Journey
+# Kuunal Mistry's LeetCode Journey
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=FFA116&center=true&vCenter=true&random=false&width=700&lines=Consistency+beats+talent.;One+problem+every+day.;Building+strong+DSA+skills.;Welcome+to+my+LeetCode+Journey!"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=FFA116&center=true&vCenter=true&width=850&lines=Building+DSA+One+Problem+At+A+Time.;Consistency+%3E+Motivation.;Code.+Learn.+Repeat."/>
 
-<p>
-  <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=openjdk"/>
-  <img src="https://img.shields.io/badge/Platform-LeetCode-black?style=for-the-badge&logo=leetcode"/>
-  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
-</p>
+<br>
+
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/Language-Java-FFD43B?style=for-the-badge&logo=openjdk&logoColor=black"/>
+<img src="https://img.shields.io/badge/Auto%20Sync-GitHub%20Actions-success?style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 📖 About
+# 📖 About
 
-This repository contains my accepted **LeetCode** solutions.
+Welcome to my **LeetCode Journey**.
 
-🎯 Goals:
-- Solve problems consistently
-- Strengthen DSA fundamentals
-- Prepare for coding interviews
-- Track progress publicly
+This repository contains all of my accepted **LeetCode** solutions written in **Java**.
+
+Every solution is automatically synchronized using **GitHub Actions**, allowing me to solve problems from my laptop, iPad, or iPhone while keeping this repository up to date.
 
 ---
 
-## 📂 Repository Structure
+# 🏆 LeetCode Profile
+
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/kuunalmistry?theme=dark&font=JetBrains+Mono&ext=heatmap"/>
+
+</p>
+
+---
+
+# 📂 Repository Structure
 
 ```text
 📦 Leetcodes
- ┣ 📂 0001-two-sum
- ┣ 📂 0074-search-a-2d-matrix
- ┣ 📂 0088-merge-sorted-array
- ┣ 📂 ...
- ┗ 📜 README.md
+┣ 📂 0001-two-sum
+┣ 📂 0074-search-a-2d-matrix
+┣ 📂 0088-merge-sorted-array
+┣ 📂 ...
+┗ 📜 README.md
 ```
 
 ---
 
-## ⚡ Tech Stack
+# 🚀 Workflow
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,git,github"/>
-</p>
+```text
+📱 iPad
+💻 Laptop
+📱 iPhone
+      │
+      ▼
+ LeetCode Account
+      │
+      ▼
+ GitHub Actions
+      │
+      ▼
+ GitHub Repository
+```
 
 ---
 
-## 📈 GitHub Stats
+# 🎯 Goals
+
+- ✅ Solve LeetCode consistently
+- ✅ Strengthen Data Structures & Algorithms
+- ✅ Improve problem-solving skills
+- ✅ Prepare for Software Engineering interviews
+- ✅ Build a strong GitHub portfolio
+
+---
+
+# ⚡ Tech Stack
 
 <p align="center">
 
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=kuunalmistry&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=java,git,github"/>
 
 </p>
-
-
 
 </div>
