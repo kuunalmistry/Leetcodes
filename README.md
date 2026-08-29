@@ -6,6 +6,7 @@
 
 <br>
 
+
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 <img src="https://img.shields.io/badge/Language-Java-FFD43B?style=for-the-badge&logo=openjdk&logoColor=black"/>
 <img src="https://img.shields.io/badge/Auto%20Sync-GitHub%20Actions-success?style=for-the-badge"/>
@@ -13,6 +14,7 @@
 </div>
 
 ---
+
 
 # 📖 About
 
@@ -31,6 +33,7 @@ Every solution is automatically synchronized using **GitHub Actions**, allowing 
 <img src="https://leetcard.jacoblin.cool/kuunalmistry?theme=dark&font=JetBrains+Mono&ext=heatmap"/>
 
 </p>
+
 
 ---
 
@@ -76,6 +79,7 @@ Every solution is automatically synchronized using **GitHub Actions**, allowing 
 
 ---
 
+
 # ⚡ Tech Stack
 
 <p align="center">
@@ -85,3 +89,4 @@ Every solution is automatically synchronized using **GitHub Actions**, allowing 
 </p>
 
 </div>
+
