@@ -6,7 +6,6 @@
 
 <br>
 
-
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 <img src="https://img.shields.io/badge/Language-Java-FFD43B?style=for-the-badge&logo=openjdk&logoColor=black"/>
 <img src="https://img.shields.io/badge/Auto%20Sync-GitHub%20Actions-success?style=for-the-badge"/>
